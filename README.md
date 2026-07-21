@@ -31,7 +31,7 @@ This project applies IT project management principles to a software development 
 
 ## Documentation
 
-📄 **Project Report:** [IT_Project_Management_Report.pdf](https://pearskyrich.github.io/IT-Project-Management-Course-Project-Online-Bookstore-System/Báo_cáo_BTL_QLDA_hoàn_chỉnh.pdf)
+📄 **Project Report:** [IT_Project_Management_Report.pdf](https://pearskyrich.github.io/IT-Project-Management-Course-Project-Online-Bookstore-System/Báo%20cáo%20BTL%20QLDA%20hoàn%20chỉnh.pdf)
 
 ## Acknowledgements
 
