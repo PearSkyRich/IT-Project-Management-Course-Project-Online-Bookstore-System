@@ -7,14 +7,14 @@ This project applies IT project management principles to a software development 
 
 ## My Responsibilities
 
-- Developed the Project Management Plan
-- Created the Work Breakdown Structure (WBS)
-- Built the project schedule and milestone plan
-- Performed risk identification and mitigation planning
-- Managed quality assurance and quality control activities
-- Prepared communication and stakeholder management plans
-- Monitored project progress using status reports and issue logs
-- Coordinated testing activities, including Unit Testing, Integration Testing, and User Acceptance Testing (UAT)
+- Developed the Project Management Plan.
+- Created the Work Breakdown Structure (WBS).
+- Built the project schedule and milestone plan.
+- Performed risk identification and mitigation planning.
+- Managed quality assurance and quality control activities.
+- Prepared communication and stakeholder management plans.
+- Monitored project progress using status reports and issue logs.
+- Coordinated testing activities, including Unit Testing, Integration Testing, and User Acceptance Testing (UAT).
 
 ## Methodologies & Tools
 
