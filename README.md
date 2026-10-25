@@ -3,7 +3,7 @@ An IT Project Management course project focused on planning, managing, and monit
 
 ## Project Overview
 
-This project applies IT project management principles to a software development project. It includes project planning, scheduling, resource allocation, risk management, quality management, communication planning, change management, and project monitoring throughout the Software Development Life Cycle (SDLC).
+This project applies IT project management principles to a software development project. It includes project planning, scheduling, resource allocation, risk management, quality management, communication planning, change management, and project monitoring throughout the Software Development Life Cycle.
 
 ## My Responsibilities
 
